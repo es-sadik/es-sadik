@@ -14,6 +14,16 @@ I’m a Full Stack Developer based in Taroudant, Morocco. I enjoy designing and 
 - **DevOps & Tools:** Git, Docker, Composer, npm/yarn
 - **Other:** RESTful APIs, Authentication.
 
+## Connect with me:
+
+<p align = "center">
+
+
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/essadik-lahcen/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lahcen5524/)
+
+</p>
+
 
 
 
