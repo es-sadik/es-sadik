@@ -1,13 +1,8 @@
 ## Hi there I'm Essadik Lahcen 👋
 
 
-> Full Stack Developer • Web  • Passionate about building useful, maintainable apps
+> Full Stack Developer
 
-[LinkedIn](https://www.linkedin.com/in/essadik-lahcen) • Taroudant, Morocco
-
----
-
-## About Me
 I’m a Full Stack Developer based in Taroudant, Morocco. I enjoy designing and developing web applications that solve real problems — from backend APIs to responsive front-end UIs. I focus on clean, maintainable code and rapid iteration with user feedback.
 
 ---
