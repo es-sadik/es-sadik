@@ -5,9 +5,8 @@
 
 I’m a Full Stack Developer based in Taroudant, Morocco. I enjoy designing and developing web applications that solve real problems — from backend APIs to responsive front-end UIs. I focus on clean, maintainable code and rapid iteration with user feedback.
 
----
-
 ## Tech & Tools
+
 - **Languages:** JavaScript (ES6+), PHP, HTML, CSS, SQL
 - **Frontend:** Angular, Tailwind / Bootstrap
 - **Backend:** Spring Boot, Laravel (PHP)
